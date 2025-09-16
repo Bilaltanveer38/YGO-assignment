@@ -440,7 +440,7 @@
 				</div>
 
 				<!-- Additional Weather Info -->
-				<div class="grid grid-cols-3 gap-4 mt-6">
+				<div class="grid md:grid-cols-3 grid-cols-1 gap-4 mt-6">
 					<div class="bg-white/90 dark:bg-gray-800 rounded-xl p-4 shadow-md border border-blue-100/30 dark:border-gray-700 backdrop-blur-sm">
 						<div class="flex items-center justify-center mb-2">
 							<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-blue-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
